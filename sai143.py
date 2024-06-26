@@ -11,3 +11,8 @@ n
 a= 23
 b= 45
 print(a+b)
+#nn
+a=45
+b56
+c=67
+print (a+b+c)
